@@ -15,6 +15,9 @@ GitHub permet ainsi à ses utilisateurs de se connecter à un site tiers en util
 ***
 
 ## Dépendances
+![doc/Sh%C3%A9ma%20Oauth.jpg](doc/Sh%C3%A9ma%20Oauth.jpg)
+
+## Dépendances
 
 Le serveur doit d'abord disposer des extensions php **sqlite et **curl****
 
@@ -108,7 +111,8 @@ Connectez vous sur votre compte GitHub, allez à:
 Puis, créez une nouvelle OAuthApp
 
 ![doc/img.png](doc/img.png)
-![doc/img_1.png](doc/img_1.png)
+![doc/O.png](doc/O.png)
+
 
     Application name
     > Nom de l'application. Un nom qui va inspirer confiance aux utilisateurs
